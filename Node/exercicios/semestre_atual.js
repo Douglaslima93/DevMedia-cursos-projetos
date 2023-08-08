@@ -4,6 +4,7 @@ const app = express();
 let data = new Date();
 let mes_atual = data.getMonth();
 
+
 let semestre_atual;
 
 if (mes_atual <= 5) {
