@@ -1,4 +1,4 @@
-import converteParaCelsius from "./conversor";
+import converteParaCelsius from "./conversor.js";
 
 let fahrenheit = 77;
 

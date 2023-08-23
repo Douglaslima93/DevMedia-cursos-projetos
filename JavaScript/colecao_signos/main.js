@@ -1,5 +1,3 @@
-
-
 import colecao_signos from './dados/dados.js';
 import retorna_signo from './funcoes/funcoes.js';
 

@@ -1,5 +1,5 @@
-import { converteParaReal, converteParaEuro } from "./converteMoedas";
-import { formataReal, formataDolar, formataEuro } from "./formataMoedasConvertidas";
+import { converteParaReal, converteParaEuro } from "./converteMoedas.js";
+import { formataReal, formataDolar, formataEuro } from "./formataMoedasConvertidas.js";
 
 let conversor = "real";
 

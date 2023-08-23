@@ -1,5 +1,5 @@
-import { validaPeso, validaAltura } from "./pesoAlturaValidacao";
-import { calculadoraIMC, retornaStatusIMC } from "./calculadoraIMC";
+import { validaPeso, validaAltura } from "./pesoAlturaValidacao.js";
+import { calculadoraIMC, retornaStatusIMC } from "./calculadoraIMC.js";
 
 let peso = 72;
 let altura = 1.72;

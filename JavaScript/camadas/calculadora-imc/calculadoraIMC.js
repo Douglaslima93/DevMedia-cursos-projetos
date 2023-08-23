@@ -1,4 +1,4 @@
-import formataIMC from "./formataIMC";
+import formataIMC from "./formataIMC.js";
 
 function calculadoraIMC(peso, altura)
 {

@@ -1,4 +1,4 @@
-import efetuaCalculoArea from "./calculo";
+import efetuaCalculoArea from "./calculo.js";
 
 let raio = 10;
 let retornoArea;
