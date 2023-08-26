@@ -1,6 +1,6 @@
 import retornaDiaSemana from "./diaSemana.js";
 
-let listaSeries = ["Smallville", "WandaVision", "Loki", "Gothan", "Arrow", "Flash", "DC Legends"];
+let listaSeries = ["Smallville", "WandaVision", "Loki", "Gothan", "Arrow", "Flash", "DC Legends", "Chicago PD"];
 
 function retornaNomeSerie(dia)
 {
