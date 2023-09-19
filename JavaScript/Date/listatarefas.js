@@ -5,4 +5,4 @@ const ano = data.getFullYear();
 
 const dataFormatada = dia + " / " + mes + " / " + ano;
 
-console.log(dataFormatada);
+console.log("A data atual é: " + dataFormatada);
