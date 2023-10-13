@@ -3,8 +3,8 @@ const carros = [
     { marca: "GM", modelo: "Onix", anoFabricacao: 2018},
     { marca: "Ford", modelo: "KA+", anoFabricacao: 2018},
     { marca: "VW", modelo: "UP", anoFabricacao: 2022},
-    { marca: "Nissam", modelo: "Versa", 
-anoFabricacao: 2023}
+    { marca: "Nissam", modelo: "Versa", anoFabricacao: 2023},
+    { marca: "Nissam", modelo: "Sentra", anoFabricacao: 2021}
 ];
 
 function retornaCarro(carro) {
